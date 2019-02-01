@@ -25,4 +25,4 @@ Use matplotlib to plot the error that the train method generates.
 7. The class is used to train and predict the mnist data set.
 8. Both questions are answered.
 
-**Deadline:** 07/02/2019 4:00pm
+**Deadline:** 11/02/2019 4:00pm
